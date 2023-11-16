@@ -18464,83 +18464,83 @@
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
       "offset": 177,
-      "length": 27,
-      "value": "\"https:\/\/sdk.testapp.io\/v1\""
+      "length": 31,
+      "value": "\"https:\/\/sdk.omarmassad.com\/v1\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 279,
+      "offset": 283,
       "length": 9,
       "value": "\"session\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 355,
+      "offset": 359,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 429,
+      "offset": 433,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 504,
+      "offset": 508,
       "length": 8,
       "value": "\"screen\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 585,
+      "offset": 589,
       "length": 8,
       "value": "\"device\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 666,
+      "offset": 670,
       "length": 13,
       "value": "\"performance\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 746,
+      "offset": 750,
       "length": 10,
       "value": "\"feedback\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 819,
+      "offset": 823,
       "length": 6,
       "value": "\"auth\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 892,
+      "offset": 896,
       "length": 10,
       "value": "\"identify\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 967,
+      "offset": 971,
       "length": 8,
       "value": "\"device\""
     },
     {
       "filePath": "\/Users\/omar\/Documents\/projects\/testapp.io\/sdk\/ios-core\/TestAppIOSDK\/Environment\/API\/API.swift",
       "kind": "StringLiteral",
-      "offset": 1040,
+      "offset": 1044,
       "length": 8,
       "value": "\"config\""
     },
